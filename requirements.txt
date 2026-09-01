@@ -1,0 +1,17 @@
+# Vector store
+chromadb>=0.5.0
+
+# LLM calls via OpenRouter (OpenAI-compatible API)
+openai>=1.0.0
+
+# Embeddings (local, no API key needed)
+sentence-transformers>=3.0.0
+
+# Environment + config
+python-dotenv>=1.0.0
+
+# SEC EDGAR data fetching
+requests>=2.31.0
+
+# Pretty terminal output
+rich>=13.7.0
